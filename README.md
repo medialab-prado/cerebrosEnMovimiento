@@ -98,9 +98,9 @@ Covadonga	Fernández, Esteban	*infografista*
 
 Mauro	Chiarella,	*arquitecto, investigador*
 
-Karel	De Pourcq,	*scripting, cientifíco de datos, comunicador científico*
+Karel	De Pourcq,	*scripting; cientifíco de datos; comunicador científico*
 
-Chiara	Carrozza,	*sociologa, politicas de ciencia*
+Chiara	Carrozza,	*sociologa; politicas de ciencia*
 
 
 --------------
@@ -174,8 +174,8 @@ Carlos	Córcoles,	*data journalist; visualization*
 
 Covadonga	Fernández, Esteban	*infographer*
 
-Mauro	Chiarella,	*architect, researcher*
+Mauro	Chiarella,	*architect; researcher*
 
-Karel	De Pourcq,	*scripting, data scientist, science communicator*
+Karel	De Pourcq,	*scripting; data scientist; science communicator*
 
-Chiara	Carrozza,	*sociologist, S&T policies*
+Chiara	Carrozza,	*sociologist; S&T policies*
