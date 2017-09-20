@@ -179,3 +179,10 @@ Mauro	Chiarella,	*architect; researcher*
 Karel	De Pourcq,	*scripting; data scientist; science communicator*
 
 Chiara	Carrozza,	*sociologist; S&T policies*
+
+
+# Data
+
+The project is base on the combination of two datasets extracted from the platform for researchers ORCID
+
+ https://orcid.org/
