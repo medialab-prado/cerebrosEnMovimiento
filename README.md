@@ -83,6 +83,26 @@ convocatoria con estas restricciones y garantizar su respeto
 estricto. Por nuestra parte, nos comprometemos a obtener cuanto antes
 la aprobación de las fuentes de los datos.
 
+# Participantxs
+Elisa	Vivas,	*periodista datos; visualización*
+
+Clara	Lima,	*periodista de datos; visualización*
+
+Sara Ledo Ruiz,	*periodista edición y datos*
+
+Nuria	Mancho,	*estadística*
+
+Carlos	Córcoles,	*periodista datos; visualización*
+
+Covadonga	Fernández, Esteban	*infografista*
+
+Mauro	Chiarella,	*arquitecto, investigador*
+
+Karel	De Pourcq,	*scripting, cientifíco de datos, comunicador científico*
+
+Chiara	Carrozza,	*sociologa, politicas de ciencia*
+
+
 --------------
 
 # English
@@ -139,3 +159,23 @@ should be obtained especially for this project. The work may be
 completes with specific stories, that would put names and faces to the
 identified dynamics.
 
+
+# Participants
+
+Elisa	Vivas,	*data journalist; visualization*
+
+Clara	Lima,	*data journalist; visualization*
+
+Sara Ledo Ruiz,	*data journalist*
+
+Nuria	Mancho,	*statistician*
+
+Carlos	Córcoles,	*data journalist; visualization*
+
+Covadonga	Fernández, Esteban	*infographer*
+
+Mauro	Chiarella,	*architect, researcher*
+
+Karel	De Pourcq,	*scripting, data scientist, science communicator*
+
+Chiara	Carrozza,	*sociologist, S&T policies*
