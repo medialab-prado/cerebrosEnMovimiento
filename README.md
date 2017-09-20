@@ -183,6 +183,14 @@ Chiara	Carrozza,	*sociologist; S&T policies*
 
 # Data
 
-The project is base on the combination of two datasets extracted from the platform for researchers ORCID
+The project is mainly based on two datasets extracted from the platform for researchers [ORCID](https://orcid.org/) available at [Digital Data Repository](http://datadryad.org/resource/doi:10.5061/dryad.48s16): [ORCID migrations](http://datadryad.org/bitstream/handle/10255/dryad.146272/ORCID_migrations_2016_12_16.csv?sequence=1) and [ORCID migrations by person](http://datadryad.org/bitstream/handle/10255/dryad.146274/ORCID_migrations_2016_12_16_by_person.csv?sequence=1).
 
- https://orcid.org/
+The wo datasets have been combined in a single database XXX
+
+To contextualize the date we have XXX OECD etc etc
+
+# Concept
+
+work done on Wed
+
+
