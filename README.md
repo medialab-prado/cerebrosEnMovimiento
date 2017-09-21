@@ -205,6 +205,8 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
 
 [Scientists on the move - OECD 2015](http://www.oecd-ilibrary.org/science-and-technology/oecd-science-technology-and-industry-scoreboard-2015/scientists-on-the-move_sti_scoreboard-2015-18-en)
 
+[Eurostat stats on mobility of high-skilled](http://ec.europa.eu/eurostat/statistics-explained/index.php/Learning_mobility_statistics)
+
 [Mobility: A strategic move](https://www.nature.com/naturejobs/science/articles/10.1038/nj7555-245a)
 
 [The increasing internationalization of science offers many benefits, but also has limitations](https://www.nature.com/news/global-reach-1.11592)
@@ -222,6 +224,5 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
 
 # Concept
 
-work done on Wed
 
 
