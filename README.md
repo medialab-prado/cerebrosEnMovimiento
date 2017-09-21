@@ -189,7 +189,7 @@ The two datasets have been combined in a single database XXX
 
 # Resources (data, analysis, opinions)
 
-[Deloitte Consulting (2014), The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
+[The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
 
 [Foreign-born scientists: mobility patterns for 16 countries](http://www.nature.com/nbt/journal/v30/n12/full/nbt.2449.html?foxtrotcallback=true)
 
