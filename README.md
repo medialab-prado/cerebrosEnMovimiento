@@ -107,6 +107,37 @@ Cristina Claverol, *infografista; diseñadora gráfica*
 
 Michele Catanzaro, *periodista*
 
+# Dados
+
+El projecto está basado en dos base de datos extraídas de la plataforma para investigadores gestionada por [ORCID](https://orcid.org/), organización que ofrece un registro que pretende ser el estándar para la identificación de colaboradores en investigación y publicaciones académicas ([ver mas](https://es.wikipedia.org/wiki/ORCID)).
+
+Las bases de datos están disponibles en [Digital Data Repository](http://datadryad.org/resource/doi:10.5061/dryad.48s16): [ORCID migrations](http://datadryad.org/bitstream/handle/10255/dryad.146272/ORCID_migrations_2016_12_16.csv?sequence=1) y [ORCID migrations by person](http://datadryad.org/bitstream/handle/10255/dryad.146274/ORCID_migrations_2016_12_16_by_person.csv?sequence=1).
+
+
+# Recursos (otros datos, análisis, opiniones, políticas)
+
+[The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
+
+[Foreign-born scientists: mobility patterns for 16 countries](http://www.nature.com/nbt/journal/v30/n12/full/nbt.2449.html?foxtrotcallback=true)
+
+[Scientists on the move - OECD 2015](http://www.oecd-ilibrary.org/science-and-technology/oecd-science-technology-and-industry-scoreboard-2015/scientists-on-the-move_sti_scoreboard-2015-18-en)
+
+[Eurostat stats on mobility of high-skilled](http://ec.europa.eu/eurostat/statistics-explained/index.php/Learning_mobility_statistics)
+
+[Mobility: A strategic move](https://www.nature.com/naturejobs/science/articles/10.1038/nj7555-245a)
+
+[The increasing internationalization of science offers many benefits, but also has limitations](https://www.nature.com/news/global-reach-1.11592)
+
+[Global mobility: Science on the move](https://www.nature.com/news/global-mobility-science-on-the-move-1.11602)
+
+[Scientific mobility: an alternative to established narrative](http://era.ideasoneurope.eu/2014/10/06/scientific-mobility-alternative-established-narrative/)
+
+[Career choices: The mobility imperative](https://www.nature.com/naturejobs/science/articles/10.1038/nj7335-563a)
+
+[Policy library Euraxess](https://euraxess.ec.europa.eu/useful-information/policy-library)
+
+[Which factors influence the international mobility of research scientists?](http://www.oecd-ilibrary.org/docserver/download/5js1tmrr2233-en.pdf?expires=1505993743&id=id&accname=guest&checksum=88C855D1114AE3FE96B53B95DD633040)
+
 # Tareas
 
 *1. Perfil de la comunidad ORCID*
@@ -219,7 +250,7 @@ The project is mainly based on two datasets extracted from the platform for rese
 Data used are available at [Digital Data Repository](http://datadryad.org/resource/doi:10.5061/dryad.48s16): [ORCID migrations](http://datadryad.org/bitstream/handle/10255/dryad.146272/ORCID_migrations_2016_12_16.csv?sequence=1) and [ORCID migrations by person](http://datadryad.org/bitstream/handle/10255/dryad.146274/ORCID_migrations_2016_12_16_by_person.csv?sequence=1).
 
 
-# Resources (other data, analysis, opinions, policies)
+# Resources (other data, analyses, opinions, policies)
 
 [The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
 
