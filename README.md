@@ -189,19 +189,17 @@ The two datasets have been combined in a single database XXX
 
 # Resources
 
-## reports
-
 [Deloitte Consulting (2014), The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
 
-## policies
+[Mobility: A strategic move](https://www.nature.com/naturejobs/science/articles/10.1038/nj7555-245a)
 
+[The increasing internationalization of science offers many benefits, but also has limitations](https://www.nature.com/news/global-reach-1.11592)
 
-## opinions
+[Global mobility: Science on the move](https://www.nature.com/news/global-mobility-science-on-the-move-1.11602)
 
 [*Scientific mobility: an alternative to established narrative*](http://era.ideasoneurope.eu/2014/10/06/scientific-mobility-alternative-established-narrative/)
 
-
-
+[Career choices: The mobility imperative](https://www.nature.com/naturejobs/science/articles/10.1038/nj7335-563a)
 
 # Concept
 
