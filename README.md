@@ -295,7 +295,7 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
 *4. How many researchers are in 2016 in the same country where they started their career?*
   
 *5. Migration vs mobility*
-  - comparison between the application process of the visa for researcher and the application process for acquaring the refugee status
+  - comparison between the application process of the visa for researcher and the application process for acquiring the refugee status
   - comparison between political discourses surrounding different kinds of movement of people
   
 
