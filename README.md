@@ -107,6 +107,28 @@ Cristina Claverol, *infografista; diseñadora gráfica*
 
 Michele Catanzaro, *periodista*
 
+# Tareas
+
+*1. Perfil de la comunidad ORCID*
+- contexto! comparativa con otras fuentes
+
+*2. Perfil del migrante* 
+- Phd?
+- Numero de movimentos (+ tempo permanencia? + empleo/formacion?)
+- Numero de países
+
+*3.  Rutas y dimensión temporal*
+- mapa com principales rutas
+- foto fija 
+   (españoles fuera: top country)
+   (extranjeros en España: top country)
+   numeo de cientificos (top countries)
+  
+*4. Cúantos vuelven al país de origen a 2016?*
+  
+*5. Migracíon y movilidad*
+  - visa para investigadores vs peticiones de asilo
+  - discurso político
 
 --------------
 
@@ -229,7 +251,7 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
 
 *2. Migrants's profile* 
 - Phd?
-- Number of movements (+ how long?)
+- Number of movements (+ how long? + employment/training)
 - Number of countries
 
 *3.  Routes and temporal dimension*
@@ -239,9 +261,9 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
    (foreigners in Spain: top country)
    number of researchers (top countries)
   
-  *4. How many researchers are in 2016 in the same country where they started their career?*
+*4. How many researchers are in 2016 in the same country where they started their career?*
   
-  *5. Migration vs mobility*
+*5. Migration vs mobility*
   - comparison between the application process of the visa for researcher and the application process for acquaring the refugee status
   - comparison between political discourses surrounding different kinds of movement of people
   
