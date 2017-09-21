@@ -84,6 +84,7 @@ estricto. Por nuestra parte, nos comprometemos a obtener cuanto antes
 la aprobación de las fuentes de los datos.
 
 # Participantxs
+
 Elisa	Vivas,	*periodista datos; visualización*
 
 Clara	Lima,	*periodista de datos; visualización*
@@ -191,11 +192,12 @@ Michele Catanzaro, *journalist*
 
 # Data
 
-The project is mainly based on two datasets extracted from the platform for researchers [ORCID](https://orcid.org/) available at [Digital Data Repository](http://datadryad.org/resource/doi:10.5061/dryad.48s16): [ORCID migrations](http://datadryad.org/bitstream/handle/10255/dryad.146272/ORCID_migrations_2016_12_16.csv?sequence=1) and [ORCID migrations by person](http://datadryad.org/bitstream/handle/10255/dryad.146274/ORCID_migrations_2016_12_16_by_person.csv?sequence=1).
+The project is mainly based on two datasets extracted from the platform for researchers managed by the [ORCID](https://orcid.org/) organization which offers a registry intended to be the standard for researchers' identification in research and academic publishing ([see more] (https://en.wikipedia.org/wiki/ORCID)).
 
-The two datasets have been combined in a single database XXX
+Data used are available at [Digital Data Repository](http://datadryad.org/resource/doi:10.5061/dryad.48s16): [ORCID migrations](http://datadryad.org/bitstream/handle/10255/dryad.146272/ORCID_migrations_2016_12_16.csv?sequence=1) and [ORCID migrations by person](http://datadryad.org/bitstream/handle/10255/dryad.146274/ORCID_migrations_2016_12_16_by_person.csv?sequence=1).
 
-# Resources (data, analysis, opinions, policies)
+
+# Resources (other data, analysis, opinions, policies)
 
 [The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
 
