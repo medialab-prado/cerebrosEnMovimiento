@@ -185,9 +185,23 @@ Chiara	Carrozza,	*sociologist; S&T policies*
 
 The project is mainly based on two datasets extracted from the platform for researchers [ORCID](https://orcid.org/) available at [Digital Data Repository](http://datadryad.org/resource/doi:10.5061/dryad.48s16): [ORCID migrations](http://datadryad.org/bitstream/handle/10255/dryad.146272/ORCID_migrations_2016_12_16.csv?sequence=1) and [ORCID migrations by person](http://datadryad.org/bitstream/handle/10255/dryad.146274/ORCID_migrations_2016_12_16_by_person.csv?sequence=1).
 
-The wo datasets have been combined in a single database XXX
+The two datasets have been combined in a single database XXX
 
-To contextualize the date we have XXX OECD etc etc
+# Resources
+
+## report about mobility
+
+[Deloitte Consulting (2014), The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
+
+## policies
+
+
+## opinions
+
+[*Scientific mobility: an alternative to established narrative*](http://era.ideasoneurope.eu/2014/10/06/scientific-mobility-alternative-established-narrative/)
+
+
+
 
 # Concept
 
