@@ -224,15 +224,28 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
 
 # Tasks
 
-1. ORCID's community profile
-⋅⋅* context! we need to compar with other sources of data and approaches to the topic
+*1. ORCID's community profile*
+- context! we need to compar with other sources of data and approaches to the topic
 
-2. Migrants's profile 
- ⋅⋅* Phd?
- ⋅⋅* Number of movements (+ how long?)
- ⋅⋅* Number of countries
+*2. Migrants's profile* 
+- Phd?
+- Number of movements (+ how long?)
+- Number of countries
 
-3.  
+*3.  Routes and temporal dimension*
+- map with main trajectories
+- still photo 
+   (spanish abroad: top country)
+   (foreigners in Spain: top country)
+   number of researchers (top countries)
+  
+  *4. How many researchers are in 2016 in the same country where they started their career?*
+  
+  *5. Migration vs mobility*
+  - comparison between the application process of the visa for researcher and the application process for acquaring the refugee status
+  - comparison between political discourses surrounding different kinds of movement of people
+  
+
  
 
 
