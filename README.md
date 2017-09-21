@@ -187,7 +187,7 @@ The project is mainly based on two datasets extracted from the platform for rese
 
 The two datasets have been combined in a single database XXX
 
-# Resources (data, analysis, opinions)
+# Resources (data, analysis, opinions, policies)
 
 [The Researchers’ Report 2014. Final Report](https://cdn5.euraxess.org/sites/default/files/policy_library/researchers_report_2014_final_report.pdf)
 
@@ -202,6 +202,8 @@ The two datasets have been combined in a single database XXX
 [*Scientific mobility: an alternative to established narrative*](http://era.ideasoneurope.eu/2014/10/06/scientific-mobility-alternative-established-narrative/)
 
 [Career choices: The mobility imperative](https://www.nature.com/naturejobs/science/articles/10.1038/nj7335-563a)
+
+[Policy library Euraxess](https://euraxess.ec.europa.eu/useful-information/policy-library)
 
 # Concept
 
