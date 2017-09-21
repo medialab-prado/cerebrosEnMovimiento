@@ -222,7 +222,17 @@ Data used are available at [Digital Data Repository](http://datadryad.org/resour
 [Which factors influence the international mobility of research scientists?](http://www.oecd-ilibrary.org/docserver/download/5js1tmrr2233-en.pdf?expires=1505993743&id=id&accname=guest&checksum=88C855D1114AE3FE96B53B95DD633040)
 
 
-# Concept
+# Tasks
 
+1. ORCID's community profile
+⋅⋅* context! we need to compar with other sources of data and approaches to the topic
+
+2. Migrants's profile 
+ ⋅⋅* Phd?
+ ⋅⋅* Number of movements (+ how long?)
+ ⋅⋅* Number of countries
+
+3.  
+ 
 
 
